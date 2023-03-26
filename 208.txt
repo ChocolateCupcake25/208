@@ -1,0 +1,5 @@
+Test case number = 1
+ how many spawn cars = 95 (i wanted to spawn 95)
+Collision happened = yes
+collision happened after = ---62.42108988761902 seconds ---
+
